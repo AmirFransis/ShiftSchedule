@@ -25,3 +25,12 @@ C:\Users\amirf\Documents\GitHub\ShiftSchedule\Infrastructure.Data\bin\Debug\Doma
 C:\Users\amirf\Documents\GitHub\ShiftSchedule\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
 C:\Users\amirf\Documents\GitHub\ShiftSchedule\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
 C:\Users\amirf\Documents\GitHub\ShiftSchedule\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\bin\Debug\Domain.Entities.dll
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\bin\Debug\Domain.Interfaces.dll
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\bin\Debug\Domain.Entities.pdb
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\bin\Debug\Domain.Interfaces.pdb
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+C:\Users\amir\Source\Repos\ShiftSchedule\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
