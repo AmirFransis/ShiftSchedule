@@ -26,3 +26,10 @@ C:\Users\amir\Source\Repos\ShiftSchedule\Services.Interfaces\bin\Debug\Domain.En
 C:\Users\amir\Source\Repos\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\amir\Source\Repos\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.dll
 C:\Users\amir\Source\Repos\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\Services.Interfaces.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\Services.Interfaces.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\Domain.Entities.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\Domain.Entities.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.pdb
