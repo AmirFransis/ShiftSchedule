@@ -44,9 +44,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Domain.Entities\Domain.Entities.csproj">
+    <ProjectReference Include="..\Domain.Entities\ShiftSchedule.Domain.Entities.csproj">
       <Project>{FED0D20D-97A8-48E2-9AA4-F0B833F6AA4F}</Project>
-      <Name>Domain.Entities</Name>
+      <Name>ShiftSchedule.Domain.Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

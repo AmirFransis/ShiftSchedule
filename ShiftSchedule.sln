@@ -11,28 +11,36 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Infrastructure", "04-Inf
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-User Interface", "05-User Interface", "{C7EF3FF1-0792-4720-A9C0-6E8BD5CDF369}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Entities", "Domain.Entities\Domain.Entities.csproj", "{FED0D20D-97A8-48E2-9AA4-F0B833F6AA4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftSchedule.Domain.Entities", "Domain.Entities\ShiftSchedule.Domain.Entities.csproj", "{FED0D20D-97A8-48E2-9AA4-F0B833F6AA4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{D674C963-5262-4CCE-AE19-70F7395F33CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftSchedule.Services", "Services\ShiftSchedule.Services.csproj", "{D674C963-5262-4CCE-AE19-70F7395F33CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Data", "Infrastructure.Data\Infrastructure.Data.csproj", "{66D2907C-D31E-40E3-969E-8E756BE4C2CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftSchedule.Infrastructure.Data", "Infrastructure.Data\ShiftSchedule.Infrastructure.Data.csproj", "{66D2907C-D31E-40E3-969E-8E756BE4C2CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Interfaces", "Domain.Interfaces\Domain.Interfaces.csproj", "{2B758117-40CB-476E-A171-0B23329BBAB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftSchedule.Domain.Interfaces", "Domain.Interfaces\ShiftSchedule.Domain.Interfaces.csproj", "{2B758117-40CB-476E-A171-0B23329BBAB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Interfaces", "Services.Interfaces\Services.Interfaces.csproj", "{DB3AC6F3-6418-41C7-BE66-D0C51C6093E9}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{32AC6221-99C3-4565-BE29-F2F65242ED24}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftSchedule.Services.Interfaces", "Services.Interfaces\ShiftSchedule.Services.Interfaces.csproj", "{DB3AC6F3-6418-41C7-BE66-D0C51C6093E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Service Interfaces", "02-Service Interfaces", "{AE01A6A1-7905-444B-AED6-3D6ED63181C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{1E88B705-C4C0-4060-93F7-7A37513EF5C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewUI", "NewUI\NewUI.csproj", "{FF670DED-CC8E-4115-B4ED-FD8F43BA08D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftSchedule.Infrastructure.DependecyResolution", "Infrastructure.DependecyResolution\ShiftSchedule.Infrastructure.DependecyResolution.csproj", "{ABC51569-ABD6-4DD9-AB3A-A881B34912D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Interfaces", "Infrastructure.Interfaces\Infrastructure.Interfaces.csproj", "{4D1F56FB-A431-4550-84F3-5677F02FDE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftSchedule.Infrastructure.Logging", "Infrastructure.Logging\ShiftSchedule.Infrastructure.Logging.csproj", "{3000C42B-118B-4BEC-AFCC-95DF38AA900A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83FF188D-4E00-4D35-AB34-0DC9D236CF92}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D8A962A9-E728-4152-AEA4-84244FA423C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -68,6 +76,18 @@ Global
 		{FF670DED-CC8E-4115-B4ED-FD8F43BA08D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF670DED-CC8E-4115-B4ED-FD8F43BA08D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF670DED-CC8E-4115-B4ED-FD8F43BA08D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC51569-ABD6-4DD9-AB3A-A881B34912D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC51569-ABD6-4DD9-AB3A-A881B34912D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC51569-ABD6-4DD9-AB3A-A881B34912D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC51569-ABD6-4DD9-AB3A-A881B34912D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1F56FB-A431-4550-84F3-5677F02FDE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1F56FB-A431-4550-84F3-5677F02FDE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1F56FB-A431-4550-84F3-5677F02FDE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1F56FB-A431-4550-84F3-5677F02FDE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3000C42B-118B-4BEC-AFCC-95DF38AA900A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3000C42B-118B-4BEC-AFCC-95DF38AA900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3000C42B-118B-4BEC-AFCC-95DF38AA900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3000C42B-118B-4BEC-AFCC-95DF38AA900A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +97,9 @@ Global
 		{2B758117-40CB-476E-A171-0B23329BBAB8} = {8AEB1B08-BCD8-4A0B-9CAF-9935BA83E74E}
 		{D674C963-5262-4CCE-AE19-70F7395F33CC} = {7AA89C66-42BA-47A7-9B29-74499BF7489F}
 		{66D2907C-D31E-40E3-969E-8E756BE4C2CD} = {51678ED2-CCE1-444A-8206-DD26B18DB62D}
+		{ABC51569-ABD6-4DD9-AB3A-A881B34912D1} = {51678ED2-CCE1-444A-8206-DD26B18DB62D}
+		{4D1F56FB-A431-4550-84F3-5677F02FDE12} = {51678ED2-CCE1-444A-8206-DD26B18DB62D}
+		{3000C42B-118B-4BEC-AFCC-95DF38AA900A} = {51678ED2-CCE1-444A-8206-DD26B18DB62D}
 		{1E88B705-C4C0-4060-93F7-7A37513EF5C0} = {C7EF3FF1-0792-4720-A9C0-6E8BD5CDF369}
 		{FF670DED-CC8E-4115-B4ED-FD8F43BA08D6} = {C7EF3FF1-0792-4720-A9C0-6E8BD5CDF369}
 		{DB3AC6F3-6418-41C7-BE66-D0C51C6093E9} = {AE01A6A1-7905-444B-AED6-3D6ED63181C2}

@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Domain.Entities
+namespace ShiftSchedule.Domain.Entities
 {
 	public class Employee
 	{

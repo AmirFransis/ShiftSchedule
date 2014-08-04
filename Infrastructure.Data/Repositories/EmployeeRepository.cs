@@ -1,10 +1,10 @@
 ﻿
 using System;
 using System.Collections.Generic;
-using Domain.Entities;
-using Domain.Interfaces;
+using ShiftSchedule.Domain.Entities;
+using ShiftSchedule.Domain.Interfaces;
 
-namespace Infrastructure.Data
+namespace ShiftSchedule.Infrastructure.Data
 {
 	public class EmployeeRepository : IEmployeeRepository
     {

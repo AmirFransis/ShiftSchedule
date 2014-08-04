@@ -1,8 +1,8 @@
 ﻿
 using System.Collections.Generic;
-using Domain.Entities;
+using ShiftSchedule.Domain.Entities;
 
-namespace Services.Interfaces
+namespace ShiftSchedule.Services.Interfaces
 {
     public interface IEmployeeService
     {

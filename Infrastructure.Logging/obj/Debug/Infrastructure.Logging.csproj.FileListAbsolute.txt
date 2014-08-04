@@ -1,0 +1,5 @@
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\bin\Debug\Infrastructure.Logging.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\bin\Debug\Infrastructure.Logging.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\obj\Debug\Infrastructure.Logging.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\obj\Debug\Infrastructure.Logging.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\obj\Debug\Infrastructure.Logging.pdb

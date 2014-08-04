@@ -1,10 +1,10 @@
 ﻿
 using System.Collections.Generic;
-using Domain.Entities;
-using Domain.Interfaces;
-using Services.Interfaces;
+using ShiftSchedule.Domain.Entities;
+using ShiftSchedule.Domain.Interfaces;
+using ShiftSchedule.Services.Interfaces;
 
-namespace Services
+namespace ShiftSchedule.Services
 {
     public class EmployeeService : IEmployeeService
     {

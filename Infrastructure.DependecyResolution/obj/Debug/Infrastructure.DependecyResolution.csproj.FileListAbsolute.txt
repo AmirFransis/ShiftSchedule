@@ -1,0 +1,5 @@
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\bin\Debug\Infrastructure.DependecyResolution.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\bin\Debug\Infrastructure.DependecyResolution.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\Infrastructure.DependecyResolution.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\Infrastructure.DependecyResolution.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\Infrastructure.DependecyResolution.pdb

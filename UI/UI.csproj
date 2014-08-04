@@ -350,25 +350,25 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Domain.Entities\Domain.Entities.csproj">
+    <ProjectReference Include="..\Domain.Entities\ShiftSchedule.Domain.Entities.csproj">
       <Project>{FED0D20D-97A8-48E2-9AA4-F0B833F6AA4F}</Project>
-      <Name>Domain.Entities</Name>
+      <Name>ShiftSchedule.Domain.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Domain.Interfaces\Domain.Interfaces.csproj">
+    <ProjectReference Include="..\Domain.Interfaces\ShiftSchedule.Domain.Interfaces.csproj">
       <Project>{2B758117-40CB-476E-A171-0B23329BBAB8}</Project>
-      <Name>Domain.Interfaces</Name>
+      <Name>ShiftSchedule.Domain.Interfaces</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Infrastructure.Data\Infrastructure.Data.csproj">
+    <ProjectReference Include="..\Infrastructure.Data\ShiftSchedule.Infrastructure.Data.csproj">
       <Project>{66D2907C-D31E-40E3-969E-8E756BE4C2CD}</Project>
-      <Name>Infrastructure.Data</Name>
+      <Name>ShiftSchedule.Infrastructure.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services.Interfaces\Services.Interfaces.csproj">
+    <ProjectReference Include="..\Services.Interfaces\ShiftSchedule.Services.Interfaces.csproj">
       <Project>{DB3AC6F3-6418-41C7-BE66-D0C51C6093E9}</Project>
-      <Name>Services.Interfaces</Name>
+      <Name>ShiftSchedule.Services.Interfaces</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services\Services.csproj">
+    <ProjectReference Include="..\Services\ShiftSchedule.Services.csproj">
       <Project>{D674C963-5262-4CCE-AE19-70F7395F33CC}</Project>
-      <Name>Services</Name>
+      <Name>ShiftSchedule.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

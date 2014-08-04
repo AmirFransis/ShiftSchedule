@@ -2,10 +2,10 @@
 using Castle.MicroKernel.Registration;
 using Castle.MicroKernel.SubSystems.Configuration;
 using Castle.Windsor;
-using Domain.Interfaces;
-using Infrastructure.Data;
-using Services;
-using Services.Interfaces;
+using ShiftSchedule.Domain.Interfaces;
+using ShiftSchedule.Infrastructure.Data;
+using ShiftSchedule.Services;
+using ShiftSchedule.Services.Interfaces;
 
 namespace UI.Installers
 {

@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DB3AC6F3-6418-41C7-BE66-D0C51C6093E9}</ProjectGuid>
+    <ProjectGuid>{4D1F56FB-A431-4550-84F3-5677F02FDE12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Services.Interfaces</RootNamespace>
-    <AssemblyName>Services.Interfaces</AssemblyName>
+    <RootNamespace>Infrastructure.Interfaces</RootNamespace>
+    <AssemblyName>Infrastructure.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -40,14 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IEmployeeService.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Domain.Entities\Domain.Entities.csproj">
-      <Project>{FED0D20D-97A8-48E2-9AA4-F0B833F6AA4F}</Project>
-      <Name>Domain.Entities</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
