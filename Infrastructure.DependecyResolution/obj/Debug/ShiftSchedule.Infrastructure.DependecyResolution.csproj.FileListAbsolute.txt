@@ -2,3 +2,8 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\bin
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\bin\Debug\Infrastructure.DependecyResolution.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\Infrastructure.DependecyResolution.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\Infrastructure.DependecyResolution.pdb
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.DependecyResolution\bin\Debug\Infrastructure.DependecyResolution.dll
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.DependecyResolution\bin\Debug\Infrastructure.DependecyResolution.pdb
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\ShiftSchedule.Infrastructure.DependecyResolution.csprojResolveAssemblyReference.cache
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\Infrastructure.DependecyResolution.dll
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\Infrastructure.DependecyResolution.pdb
