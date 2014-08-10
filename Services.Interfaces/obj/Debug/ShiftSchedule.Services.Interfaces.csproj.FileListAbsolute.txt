@@ -5,3 +5,10 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\Domain.E
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\ShiftSchedule.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\amir\Desktop\ShiftSchedule\Services.Interfaces\bin\Debug\Services.Interfaces.dll
+C:\Users\amir\Desktop\ShiftSchedule\Services.Interfaces\bin\Debug\Services.Interfaces.pdb
+C:\Users\amir\Desktop\ShiftSchedule\Services.Interfaces\bin\Debug\Domain.Entities.dll
+C:\Users\amir\Desktop\ShiftSchedule\Services.Interfaces\bin\Debug\Domain.Entities.pdb
+C:\Users\amir\Desktop\ShiftSchedule\Services.Interfaces\obj\Debug\ShiftSchedule.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\amir\Desktop\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.dll
+C:\Users\amir\Desktop\ShiftSchedule\Services.Interfaces\obj\Debug\Services.Interfaces.pdb

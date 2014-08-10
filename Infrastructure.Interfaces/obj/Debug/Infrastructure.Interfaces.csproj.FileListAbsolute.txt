@@ -3,3 +3,8 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Interfaces\bin\Debug\In
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Interfaces\obj\Debug\Infrastructure.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Interfaces\obj\Debug\Infrastructure.Interfaces.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Interfaces\obj\Debug\Infrastructure.Interfaces.pdb
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Interfaces\bin\Debug\Infrastructure.Interfaces.dll
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Interfaces\bin\Debug\Infrastructure.Interfaces.pdb
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Interfaces\obj\Debug\Infrastructure.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Interfaces\obj\Debug\Infrastructure.Interfaces.dll
+C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Interfaces\obj\Debug\Infrastructure.Interfaces.pdb
