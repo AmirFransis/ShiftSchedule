@@ -1,6 +1,3 @@
-C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\NewUI.dll.config
-C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\NewUI.dll
-C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\NewUI.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\Antlr3.Runtime.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\EntityFramework.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\EntityFramework.SqlServer.dll
@@ -51,8 +48,6 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\Microsoft.Owin.Security.Goog
 C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\obj\Debug\NewUI.csprojResolveAssemblyReference.cache
-C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\obj\Debug\NewUI.dll
-C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\obj\Debug\NewUI.pdb
 C:\Users\amir\Desktop\ShiftSchedule\NewUI\bin\NewUI.dll.config
 C:\Users\amir\Desktop\ShiftSchedule\NewUI\bin\NewUI.dll
 C:\Users\amir\Desktop\ShiftSchedule\NewUI\bin\NewUI.pdb
@@ -108,3 +103,8 @@ C:\Users\amir\Desktop\ShiftSchedule\NewUI\bin\Microsoft.Owin.Security.MicrosoftA
 C:\Users\amir\Desktop\ShiftSchedule\NewUI\obj\Debug\NewUI.csprojResolveAssemblyReference.cache
 C:\Users\amir\Desktop\ShiftSchedule\NewUI\obj\Debug\NewUI.dll
 C:\Users\amir\Desktop\ShiftSchedule\NewUI\obj\Debug\NewUI.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\ShiftSchedule.NewUI.dll.config
+C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\ShiftSchedule.NewUI.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\bin\ShiftSchedule.NewUI.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\obj\Debug\ShiftSchedule.NewUI.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\NewUI\obj\Debug\ShiftSchedule.NewUI.pdb
