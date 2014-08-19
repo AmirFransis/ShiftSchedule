@@ -6,3 +6,4 @@ C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Logging\bin\Debug\Infrastruct
 C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Logging\bin\Debug\Infrastructure.Logging.pdb
 C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Logging\obj\Debug\Infrastructure.Logging.dll
 C:\Users\amir\Desktop\ShiftSchedule\Infrastructure.Logging\obj\Debug\Infrastructure.Logging.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\obj\Debug\ShiftSchedule.Infrastructure.Logging.csprojResolveAssemblyReference.cache
