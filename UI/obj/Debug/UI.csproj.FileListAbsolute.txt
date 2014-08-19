@@ -429,7 +429,6 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\UI.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Antlr3.Runtime.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Castle.Core.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Castle.Windsor.dll
-C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Domain.Entities.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Domain.Interfaces.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\DotNetOpenAuth.AspNet.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\DotNetOpenAuth.Core.dll
@@ -467,7 +466,6 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\WebMatrix.Data.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\WebMatrix.WebData.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Org.Mentalis.Security.Cryptography.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Mono.Math.dll
-C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Domain.Entities.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Domain.Interfaces.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Infrastructure.Data.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\Services.Interfaces.pdb
@@ -649,3 +647,5 @@ C:\Users\amir\Desktop\ShiftSchedule\UI\obj\Debug\UI.csproj.App.config
 C:\Users\amir\Desktop\ShiftSchedule\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
 C:\Users\amir\Desktop\ShiftSchedule\UI\obj\Debug\UI.dll
 C:\Users\amir\Desktop\ShiftSchedule\UI\obj\Debug\UI.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\ShiftSchedule.Domain.Entities.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\UI\bin\ShiftSchedule.Domain.Entities.pdb

@@ -7,8 +7,8 @@
     <ProjectGuid>{3000C42B-118B-4BEC-AFCC-95DF38AA900A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Infrastructure.Logging</RootNamespace>
-    <AssemblyName>Infrastructure.Logging</AssemblyName>
+    <RootNamespace>ShiftSchedule.Infrastructure.Logging</RootNamespace>
+    <AssemblyName>ShiftSchedule.Infrastructure.Logging</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

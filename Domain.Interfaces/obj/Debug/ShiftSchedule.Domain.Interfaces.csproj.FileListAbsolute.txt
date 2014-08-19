@@ -1,7 +1,5 @@
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\bin\Debug\Domain.Interfaces.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\bin\Debug\Domain.Interfaces.pdb
-C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\bin\Debug\Domain.Entities.dll
-C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\bin\Debug\Domain.Entities.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\obj\Debug\ShiftSchedule.Domain.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\obj\Debug\Domain.Interfaces.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\obj\Debug\Domain.Interfaces.pdb
@@ -12,3 +10,5 @@ C:\Users\amir\Desktop\ShiftSchedule\Domain.Interfaces\bin\Debug\Domain.Entities.
 C:\Users\amir\Desktop\ShiftSchedule\Domain.Interfaces\obj\Debug\ShiftSchedule.Domain.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\amir\Desktop\ShiftSchedule\Domain.Interfaces\obj\Debug\Domain.Interfaces.dll
 C:\Users\amir\Desktop\ShiftSchedule\Domain.Interfaces\obj\Debug\Domain.Interfaces.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\bin\Debug\ShiftSchedule.Domain.Entities.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Interfaces\bin\Debug\ShiftSchedule.Domain.Entities.pdb

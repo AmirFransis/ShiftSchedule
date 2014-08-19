@@ -7,8 +7,8 @@
     <ProjectGuid>{ABC51569-ABD6-4DD9-AB3A-A881B34912D1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Infrastructure.DependecyResolution</RootNamespace>
-    <AssemblyName>Infrastructure.DependecyResolution</AssemblyName>
+    <RootNamespace>ShiftSchedule.Infrastructure.DependecyResolution</RootNamespace>
+    <AssemblyName>ShiftSchedule.Infrastructure.DependecyResolution</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

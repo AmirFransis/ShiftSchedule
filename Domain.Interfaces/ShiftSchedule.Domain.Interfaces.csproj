@@ -7,8 +7,8 @@
     <ProjectGuid>{2B758117-40CB-476E-A171-0B23329BBAB8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Domain.Interfaces</RootNamespace>
-    <AssemblyName>Domain.Interfaces</AssemblyName>
+    <RootNamespace>ShiftSchedule.Domain.Interfaces</RootNamespace>
+    <AssemblyName>ShiftSchedule.Domain.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

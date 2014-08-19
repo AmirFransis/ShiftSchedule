@@ -7,8 +7,8 @@
     <ProjectGuid>{DB3AC6F3-6418-41C7-BE66-D0C51C6093E9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Services.Interfaces</RootNamespace>
-    <AssemblyName>Services.Interfaces</AssemblyName>
+    <RootNamespace>ShiftSchedule.Services.Interfaces</RootNamespace>
+    <AssemblyName>ShiftSchedule.Services.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

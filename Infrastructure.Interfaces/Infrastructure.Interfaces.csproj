@@ -7,8 +7,8 @@
     <ProjectGuid>{4D1F56FB-A431-4550-84F3-5677F02FDE12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Infrastructure.Interfaces</RootNamespace>
-    <AssemblyName>Infrastructure.Interfaces</AssemblyName>
+    <RootNamespace>ShiftSchedule.Infrastructure.Interfaces</RootNamespace>
+    <AssemblyName>ShiftSchedule.Infrastructure.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
