@@ -6,6 +6,6 @@ namespace ShiftSchedule.Domain.Interfaces
 {
     public interface IEmployeeRepository
     {
-		IEnumerable<Employee> GetEmployees();
+        List<Employee> GetEmployees();
     }
 }

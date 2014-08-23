@@ -4,10 +4,19 @@ using System.Collections.Generic;
 
 namespace ShiftSchedule.Domain.Entities
 {
-    class Shift
+    enum ShiftDesc
     {
-        public DateTime DateStarted { get; set; }
-        public DateTime DateEnded { get; set; }
-        public IEnumerable<Employee> Employees { get; set; }
+        Morning = 0,
+        Evening = 1,
+        Night = 2
+    }
+
+   public class Shift
+    {
+        private string Name; //Morning,Evening or other (
+        private DayOfWeek Day;
+        private TimeSpan Started { get; set; }
+        private TimeSpan Ended { get; set; }
+     
     }
 }

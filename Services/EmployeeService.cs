@@ -15,7 +15,7 @@ namespace ShiftSchedule.Services
             _repository = repository;
         }
 
-		public IEnumerable<Employee> GetEmployees()
+        public List<Employee> GetEmployees()
         {
 			return _repository.GetEmployees();
         }

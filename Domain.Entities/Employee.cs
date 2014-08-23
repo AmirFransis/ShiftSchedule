@@ -3,6 +3,7 @@ using System;
 
 namespace ShiftSchedule.Domain.Entities
 {
+ 
 	public class Employee
 	{
 		public int Id { get; set; }

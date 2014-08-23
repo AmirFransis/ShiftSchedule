@@ -8,7 +8,7 @@ namespace ShiftSchedule.Infrastructure.Data
 {
 	public class EmployeeRepository : IEmployeeRepository
     {
-		public IEnumerable<Employee> GetEmployees()
+        public List<Employee> GetEmployees()
         {
             // in reality you would connet to Database from this point, but for demo purposes
             // we will just return in-memory data

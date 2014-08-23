@@ -6,6 +6,6 @@ namespace ShiftSchedule.Services.Interfaces
 {
     public interface IEmployeeService
     {
-		IEnumerable<Employee> GetEmployees();
+        List<Employee> GetEmployees();
     }
 }

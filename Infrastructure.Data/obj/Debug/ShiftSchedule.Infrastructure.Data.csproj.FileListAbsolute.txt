@@ -16,3 +16,12 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSch
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSchedule.Domain.Interfaces.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Data\obj\Debug\ShiftSchedule.Infrastructure.Data.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Data\obj\Debug\ShiftSchedule.Infrastructure.Data.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSchedule.Infrastructure.Data.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSchedule.Infrastructure.Data.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSchedule.Domain.Entities.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSchedule.Domain.Interfaces.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSchedule.Domain.Entities.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\bin\Debug\ShiftSchedule.Domain.Interfaces.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\obj\Debug\ShiftSchedule.Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\obj\Debug\ShiftSchedule.Infrastructure.Data.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\Infrastructure.Data\obj\Debug\ShiftSchedule.Infrastructure.Data.pdb
