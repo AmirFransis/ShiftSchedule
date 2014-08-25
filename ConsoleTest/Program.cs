@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ShiftSchedule.Domain.Entities;
 using ShiftSchedule.Services;
 
@@ -11,57 +8,68 @@ namespace ConsoleTest
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string intervalString, format;
-            TimeSpan interval;
+            Console.SetWindowSize(170, 58);
+            string format;
             CultureInfo culture;
-
             // Parse hour:minute value with "g" specifier current culture.
-            intervalString = "17:14";
             format = "g";
             culture = CultureInfo.CurrentCulture;
 
-            System.Console.WriteLine("Whats up Martin how many domains you handle?");
+            Console.WriteLine("Whats up Martin how many domains you handle?");
             int numOfDomains = Convert.ToInt32(Console.ReadLine());
             List<Team> domains = new List<Team>();
-            int shifts_per_day = 0;
+            int shiftsPerDay = 0;
             List<Shift> shifts = new List<Shift>();
+            List<Schedule> schedules = new List<Schedule>();
             for (int i = 0; i < numOfDomains; i++)
             {
-                System.Console.WriteLine("Please enter domain {0} is name",i+1);
-                string domain_name = System.Console.ReadLine();
-                domains.Add(new Team(domain_name));
-                System.Console.WriteLine("Please enter how many shift per day for domain: {0} is name",domains[i].Name);
-                shifts_per_day = Convert.ToInt32(Console.ReadLine());
-                //shifts_per_day.Add(shiftPerDay);
-                for (int j = 0; j < shifts_per_day; j++)
+                Console.WriteLine("Please enter domain {0} is name",i+1);
+                string domainName = Console.ReadLine();
+                domains.Add(new Team(domainName));
+                Console.WriteLine("Please enter how many shift per day for domain: {0} is name",domains[i].Name);
+                shiftsPerDay = Convert.ToInt32(Console.ReadLine());
+                for (int j = 0; j < shiftsPerDay; j++)
                 {
-                    System.Console.WriteLine("Please enter when shift {0} started",j+1);
-                    string started_shift = System.Console.ReadLine();
-                    System.Console.WriteLine("Please enter when shift {0} ended",j+1);
-                    string ended_shift = System.Console.ReadLine();
-                    shifts.Add(new Shift("shift " + j + " ", DayOfWeek.Sunday, TimeSpan.ParseExact(started_shift, format, culture), TimeSpan.ParseExact(ended_shift, format, culture)));
-                }
-                
-            }
-
-            int numOfSchedule = shifts_per_day * domains.Count * 7;
-            List<Schedule> schedules = new List<Schedule>();
-            for (int i = 0; i < 7; i++)
-            {
-                for (int j = 0; j < domains.Count; j++)
-                {
-                    for (int k = 0; k < shifts_per_day; k++)
+                    Console.WriteLine("Please enter when shift {0} started (Fromat HH:MM):", j + 1);
+                    string startedShift = Console.ReadLine();
+                    Console.WriteLine("Please enter when shift {0} ended (Fromat HH:MM):", j + 1);
+                    string endedShift = Console.ReadLine();
+                    foreach (DayOfWeek day in Enum.GetValues(typeof(DayOfWeek)))
                     {
-                        schedules.Add(new Schedule(shifts[k], domains[j], new List<Employee>()));
+                        shifts.Add(new Shift("shift " + (j + 1) + " ", day, TimeSpan.ParseExact(startedShift, format, culture), TimeSpan.ParseExact(endedShift, format, culture)));
+                        schedules.Add(new Schedule(shifts[shifts.Count-1], domains[i], new List<Employee>()));
                     }
                 }
                 
             }
-            System.Console.ReadLine();
 
-
+            printTable(schedules);
+            Console.ReadLine(); //pause
         }
+
+        static void printTable(List<Schedule> schedules)
+        {
+            
+            // set the columns in the constructor
+            var table = new ConsoleTable("Shift","Team",
+                                         DayOfWeek.Sunday.ToString(), 
+                                         DayOfWeek.Monday.ToString(), 
+                                         DayOfWeek.Thursday.ToString(),
+                                         DayOfWeek.Wednesday.ToString(),
+                                         DayOfWeek.Thursday.ToString(),
+                                         DayOfWeek.Friday.ToString(),
+                                         DayOfWeek.Saturday.ToString());
+
+            for (int i = 0; i < schedules.Count; i++)
+            {
+                if ((i % 7 == 0))
+                table.AddRow(schedules[i].Shift, schedules[i].Team, 3, 4, 5, 6, 7, 8, 9);
+            }
+           
+            // spit out the result to Console (uses Console.WriteLine())
+            table.Write();
+           }
     }
 }

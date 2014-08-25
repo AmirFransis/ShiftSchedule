@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ShiftSchedule.Domain.Entities;
@@ -26,6 +25,17 @@ namespace ShiftSchedule.Services
             employees.Add(emp);
         }
 
+        public Team Team
+        {
+            get { return team; }
+            set { team = value; }
+        }
+
+        public Shift Shift
+        {
+            get { return shift; }
+            set { shift = value; }
+        }
     }
 
    

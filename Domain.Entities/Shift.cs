@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-
 
 namespace ShiftSchedule.Domain.Entities
 {
@@ -29,6 +27,12 @@ namespace ShiftSchedule.Domain.Entities
         public TimeSpan GetDuration()
         {
             return (Ended.Subtract(Started));
+        }
+
+        public override string ToString()
+        {
+            string output = Name+" Started :" + Started + " Ended " + Ended + " ";
+            return output;
         }
     }
 }

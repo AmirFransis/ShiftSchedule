@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ShiftSchedule.Domain.Entities
 {
@@ -13,6 +10,11 @@ namespace ShiftSchedule.Domain.Entities
         public Team(string name)
         {
             Name = name;
+        }
+
+        public override string ToString()
+        {
+            return Name;
         }
     }
 }
