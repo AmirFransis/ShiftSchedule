@@ -1,0 +1,14 @@
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Domain.Entities.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Services.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Services.Interfaces.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Domain.Interfaces.dll
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Domain.Entities.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Services.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Services.Interfaces.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Domain.Interfaces.pdb
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\amir\Documents\GitHub\ShiftSchedule\ConsoleTest\obj\Debug\ConsoleTest.pdb

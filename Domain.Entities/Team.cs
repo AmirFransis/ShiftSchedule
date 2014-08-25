@@ -8,6 +8,11 @@ namespace ShiftSchedule.Domain.Entities
 {
     public class Team
     {
-        private string Name { get; set; } //NOC,Support,...
+        public string Name { get; set; } //NOC,Support,...
+
+        public Team(string name)
+        {
+            Name = name;
+        }
     }
 }

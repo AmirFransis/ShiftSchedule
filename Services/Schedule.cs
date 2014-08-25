@@ -7,11 +7,19 @@ using ShiftSchedule.Domain.Entities;
 
 namespace ShiftSchedule.Services
 {
-    class Schedule
+    public class Schedule
     {
+
         private Team team;
         private Shift shift;
         List<Employee> employees { get; set; }
+
+        public Schedule(Shift shift, Team team, List<Employee> employees)
+        {
+            this.shift = shift;
+            this.team = team;
+            this.employees = employees;
+        }
 
         public void addEmployee(Employee emp)
         {
