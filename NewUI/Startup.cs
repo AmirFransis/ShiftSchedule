@@ -1,8 +1,9 @@
 ﻿using Microsoft.Owin;
 using Owin;
+using ShiftSchedule.NewUI;
 
-[assembly: OwinStartupAttribute(typeof(NewUI.Startup))]
-namespace NewUI
+[assembly: OwinStartup(typeof(Startup))]
+namespace ShiftSchedule.NewUI
 {
     public partial class Startup
     {

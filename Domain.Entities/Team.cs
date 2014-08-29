@@ -1,16 +1,15 @@
-﻿using System;
-
-
-namespace ShiftSchedule.Domain.Entities
+﻿namespace ShiftSchedule.Domain.Entities
 {
     public class Team
     {
-        public string Name { get; set; } //NOC,Support,...
+        //NOC,Support,...
 
         public Team(string name)
         {
             Name = name;
         }
+
+        public string Name { get; set; }
 
         public override string ToString()
         {

@@ -3,7 +3,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
 
-namespace NewUI
+namespace ShiftSchedule.NewUI
 {
     public partial class Startup
     {

@@ -1,0 +1,4 @@
+C:\Users\amir\Documents\GIT\ShiftSchedule\Project1\bin\Debug\Shitschedule.Infrastructure.Interfaced.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Project1\bin\Debug\Shitschedule.Infrastructure.Interfaced.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Project1\obj\Debug\Shitschedule.Infrastructure.Interfaced.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\Project1\obj\Debug\Shitschedule.Infrastructure.Interfaced.pdb

@@ -2,7 +2,7 @@
 
 namespace ShiftSchedule.Domain.Entities
 {
-    enum ShiftDesc
+    internal enum ShiftDesc
     {
         Morning = 0,
         Evening = 1,
@@ -11,10 +11,8 @@ namespace ShiftSchedule.Domain.Entities
 
     public class Shift
     {
-        private string Name; //Morning,Evening or other (
+        private readonly string Name; //Morning,Evening or other (
         private DayOfWeek Day;
-        private TimeSpan Started { get; set; }
-        private TimeSpan Ended { get; set; }
 
         public Shift(string name, DayOfWeek day, TimeSpan started, TimeSpan ended)
         {
@@ -24,6 +22,9 @@ namespace ShiftSchedule.Domain.Entities
             Ended = ended;
         }
 
+        private TimeSpan Started { get; set; }
+        private TimeSpan Ended { get; set; }
+
         public TimeSpan GetDuration()
         {
             return (Ended.Subtract(Started));
@@ -31,10 +32,9 @@ namespace ShiftSchedule.Domain.Entities
 
         public override string ToString()
         {
-            string output = Name+" Started :" + Started + " Ended " + Ended + " ";
+            string output = Name + " Started " + Started.ToString(@"hh\:mm") + "," +
+                            " Ended " + Ended.ToString(@"hh\:mm");
             return output;
         }
     }
 }
-
-    

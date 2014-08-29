@@ -10,17 +10,17 @@ namespace ConsoleTest
     {
         static void Main()
         {
-            Console.SetWindowSize(170, 58);
+            Console.SetWindowSize(Console.LargestWindowWidth, Console.LargestWindowHeight);
             string format;
             CultureInfo culture;
             // Parse hour:minute value with "g" specifier current culture.
             format = "g";
             culture = CultureInfo.CurrentCulture;
 
-            Console.WriteLine("Whats up Martin how many domains you handle?");
+            Console.WriteLine("Whats up, how many domains you handle?");
             int numOfDomains = Convert.ToInt32(Console.ReadLine());
             List<Team> domains = new List<Team>();
-            int shiftsPerDay = 0;
+            int shiftsPerDay;
             List<Shift> shifts = new List<Shift>();
             List<Schedule> schedules = new List<Schedule>();
             for (int i = 0; i < numOfDomains; i++)
@@ -28,7 +28,7 @@ namespace ConsoleTest
                 Console.WriteLine("Please enter domain {0} is name",i+1);
                 string domainName = Console.ReadLine();
                 domains.Add(new Team(domainName));
-                Console.WriteLine("Please enter how many shift per day for domain: {0} is name",domains[i].Name);
+                Console.WriteLine("Please enter how many shift per day for domain: {0} ",domains[i].Name);
                 shiftsPerDay = Convert.ToInt32(Console.ReadLine());
                 for (int j = 0; j < shiftsPerDay; j++)
                 {
@@ -45,11 +45,11 @@ namespace ConsoleTest
                 
             }
 
-            printTable(schedules);
+            PrintTable(schedules);
             Console.ReadLine(); //pause
         }
 
-        static void printTable(List<Schedule> schedules)
+        static void PrintTable(List<Schedule> schedules)
         {
             
             // set the columns in the constructor

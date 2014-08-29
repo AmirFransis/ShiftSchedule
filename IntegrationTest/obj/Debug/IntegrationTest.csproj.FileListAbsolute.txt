@@ -4,3 +4,9 @@ C:\Users\amir\Documents\GitHub\ShiftSchedule\IntegrationTest\bin\Debug\Integrati
 C:\Users\amir\Documents\GitHub\ShiftSchedule\IntegrationTest\obj\Debug\IntegrationTest.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GitHub\ShiftSchedule\IntegrationTest\obj\Debug\IntegrationTest.exe
 C:\Users\amir\Documents\GitHub\ShiftSchedule\IntegrationTest\obj\Debug\IntegrationTest.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\IntegrationTest\bin\Debug\IntegrationTest.exe.config
+C:\Users\amir\Documents\GIT\ShiftSchedule\IntegrationTest\bin\Debug\IntegrationTest.exe
+C:\Users\amir\Documents\GIT\ShiftSchedule\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\IntegrationTest\obj\Debug\IntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\GIT\ShiftSchedule\IntegrationTest\obj\Debug\IntegrationTest.exe
+C:\Users\amir\Documents\GIT\ShiftSchedule\IntegrationTest\obj\Debug\IntegrationTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\bin\Debug\NUnitTests.dll.config
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\bin\Debug\ShiftSchedule.Domain.Entities.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\bin\Debug\ShiftSchedule.Domain.Entities.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\amir\Documents\GIT\ShiftSchedule\NUnitTests\obj\Debug\NUnitTests.pdb
