@@ -26,3 +26,5 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\ConsoleTest\bin\Debug\ShiftSchedule.Do
 C:\Users\amir\Documents\GIT\ShiftSchedule\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\ConsoleTest\obj\Debug\ConsoleTest.exe
 C:\Users\amir\Documents\GIT\ShiftSchedule\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\ConsoleTest\bin\Debug\ConsoleTest.exe.CodeAnalysisLog.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\ConsoleTest\bin\Debug\ConsoleTest.exe.lastcodeanalysissucceeded

@@ -7,3 +7,5 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\bin\Debug\Shift
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\obj\Debug\ShiftSchedule.Infrastructure.Logging.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\obj\Debug\ShiftSchedule.Infrastructure.Logging.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\obj\Debug\ShiftSchedule.Infrastructure.Logging.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\bin\Debug\ShiftSchedule.Infrastructure.Logging.dll.CodeAnalysisLog.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.Logging\bin\Debug\ShiftSchedule.Infrastructure.Logging.dll.lastcodeanalysissucceeded

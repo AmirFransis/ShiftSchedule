@@ -19,3 +19,5 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\ShiftSch
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\ShiftSchedule.Services.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\ShiftSchedule.Services.Interfaces.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\obj\Debug\ShiftSchedule.Services.Interfaces.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\ShiftSchedule.Services.Interfaces.dll.CodeAnalysisLog.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services.Interfaces\bin\Debug\ShiftSchedule.Services.Interfaces.dll.lastcodeanalysissucceeded

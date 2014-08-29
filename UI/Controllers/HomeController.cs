@@ -3,25 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using ShiftSchedule.Domain.Entities;
-using ShiftSchedule.Services.Interfaces;
 
 namespace UI.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IEmployeeService _service;
-
-        public HomeController(IEmployeeService service)
-        {
-            _service = service;
-        }
-
         public ActionResult Index()
         {
-			var users = _service.GetEmployees();
-            
-            return View(users);
+            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+
+            return View();
         }
 
         public ActionResult About()

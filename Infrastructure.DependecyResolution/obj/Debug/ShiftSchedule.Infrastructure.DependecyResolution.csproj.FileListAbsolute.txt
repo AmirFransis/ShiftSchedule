@@ -8,3 +8,5 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\bin
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\ShiftSchedule.Infrastructure.DependecyResolution.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\ShiftSchedule.Infrastructure.DependecyResolution.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\obj\Debug\ShiftSchedule.Infrastructure.DependecyResolution.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\bin\Debug\ShiftSchedule.Infrastructure.DependecyResolution.dll.CodeAnalysisLog.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\Infrastructure.DependecyResolution\bin\Debug\ShiftSchedule.Infrastructure.DependecyResolution.dll.lastcodeanalysissucceeded

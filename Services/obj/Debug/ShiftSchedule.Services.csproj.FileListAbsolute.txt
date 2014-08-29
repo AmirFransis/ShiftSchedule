@@ -31,3 +31,5 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\Services\bin\Debug\ShiftSchedule.Servi
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services\obj\Debug\ShiftSchedule.Services.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services\obj\Debug\ShiftSchedule.Services.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Services\obj\Debug\ShiftSchedule.Services.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services\bin\Debug\ShiftSchedule.Services.dll.CodeAnalysisLog.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\Services\bin\Debug\ShiftSchedule.Services.dll.lastcodeanalysissucceeded

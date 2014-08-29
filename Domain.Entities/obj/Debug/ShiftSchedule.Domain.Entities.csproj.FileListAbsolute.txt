@@ -26,6 +26,8 @@ C:\Users\amir\Documents\GitHub\ShiftSchedule\Domain.Entities\obj\Debug\ShiftSche
 C:\Users\amir\Documents\GitHub\ShiftSchedule\Domain.Entities\obj\Debug\ShiftSchedule.Domain.Entities.pdb
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\bin\Debug\ShiftSchedule.Domain.Entities.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\bin\Debug\ShiftSchedule.Domain.Entities.pdb
-C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\obj\Debug\ShiftSchedule.Domain.Entities.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\obj\Debug\ShiftSchedule.Domain.Entities.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\obj\Debug\ShiftSchedule.Domain.Entities.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\bin\Debug\ShiftSchedule.Domain.Entities.dll.CodeAnalysisLog.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\bin\Debug\ShiftSchedule.Domain.Entities.dll.lastcodeanalysissucceeded
+C:\Users\amir\Documents\GIT\ShiftSchedule\Domain.Entities\obj\Debug\ShiftSchedule.Domain.Entities.csprojResolveAssemblyReference.cache

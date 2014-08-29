@@ -12,3 +12,5 @@ C:\Users\amir\Documents\GIT\ShiftSchedule\UnitTest\bin\Debug\ShiftSchedule.Domai
 C:\Users\amir\Documents\GIT\ShiftSchedule\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
 C:\Users\amir\Documents\GIT\ShiftSchedule\UnitTest\obj\Debug\UnitTest.dll
 C:\Users\amir\Documents\GIT\ShiftSchedule\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\amir\Documents\GIT\ShiftSchedule\UnitTest\bin\Debug\UnitTest.dll.CodeAnalysisLog.xml
+C:\Users\amir\Documents\GIT\ShiftSchedule\UnitTest\bin\Debug\UnitTest.dll.lastcodeanalysissucceeded
